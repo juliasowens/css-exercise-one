@@ -1,0 +1,66 @@
+body {
+  font-size: 14px;
+}
+/*This is the navigation */
+nav {
+  background color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: relative;
+  width: 100%;
+}
+
+section {
+  margin:0;
+  width: 60%;
+}
+
+/*This is the heading */
+
+h1 {
+  background-color: white;
+  background-position: center;
+  font-family: sans-serif;
+  font-size: 2em;
+  height: 100%;
+  width: 100%
+}
+
+/* This is the div for all of the green elements */
+.example, h3 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+.element {
+  background-color: green;
+  height: 100px;
+  margin: 10px; 0;
+  width: 100%;
+}
+
+/* Here is where I changed the last 3 div */
+
+.feature1 {
+  background-color: blue;
+  height: 100px;
+  margin: 10px; 0;
+  width: 100%;
+}
+.feature2 {
+  background-color: red;
+  height: 100px;
+  margin: 10px; 0;
+  width: 100%;
+}
+
+.feature3 {
+  background-color: yellow;
+  height: 100px;
+  margin: 10px; 0;
+  width: 100%;
+}
